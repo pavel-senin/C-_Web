@@ -1,0 +1,5 @@
+D:/GB/CPP_Web/hw2/build/CMakeFiles/player.dir
+D:/GB/CPP_Web/hw2/build/CMakeFiles/game.dir
+D:/GB/CPP_Web/hw2/build/CMakeFiles/MatchstickGame.dir
+D:/GB/CPP_Web/hw2/build/CMakeFiles/ALL_BUILD.dir
+D:/GB/CPP_Web/hw2/build/CMakeFiles/ZERO_CHECK.dir
