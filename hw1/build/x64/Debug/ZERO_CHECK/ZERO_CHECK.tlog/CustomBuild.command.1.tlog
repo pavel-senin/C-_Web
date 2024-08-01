@@ -1,0 +1,10 @@
+^D:\GB\CPP_WEB\HW1\BUILD\CMAKEFILES\0393AEC504AC1B13005958F253CD1A86\GENERATE.STAMP.RULE
+setlocal
+C:\MinGW\mingw64\bin\cmake.exe -SD:/GB/CPP_Web/hw1 -BD:/GB/CPP_Web/hw1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GB/CPP_Web/hw1/build/MatchstickGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

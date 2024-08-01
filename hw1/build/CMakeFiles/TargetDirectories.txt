@@ -1,0 +1,3 @@
+D:/GB/CPP_Web/hw1/build/CMakeFiles/MatchstickGame.dir
+D:/GB/CPP_Web/hw1/build/CMakeFiles/ALL_BUILD.dir
+D:/GB/CPP_Web/hw1/build/CMakeFiles/ZERO_CHECK.dir
