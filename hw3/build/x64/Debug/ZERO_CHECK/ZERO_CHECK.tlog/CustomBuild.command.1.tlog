@@ -1,0 +1,10 @@
+^D:\GB\CPP_WEB\HW3\BUILD\CMAKEFILES\079AA643DA56879486EBD674C5A1E84D\GENERATE.STAMP.RULE
+setlocal
+C:\MinGW\mingw64\bin\cmake.exe -SD:/GB/CPP_Web/hw3 -BD:/GB/CPP_Web/hw3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GB/CPP_Web/hw3/build/TicTacToe.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
